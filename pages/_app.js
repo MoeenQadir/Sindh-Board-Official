@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <VideoState>
       <Head>
-        <title>Board Of intermediate & Secondary Education-Sukkur</title>
+        <title>eTreeks - Education & Courses Landing Page Template</title>
         <link
           rel="shortcut icon"
           href="images/favicon.ico"
